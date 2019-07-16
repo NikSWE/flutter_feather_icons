@@ -6,7 +6,7 @@
 
 ### **Important Note**
 
-Naming conventions has been changed for better readability and consistancy with all other flutter icon packs
+Naming conventions have been changed for better readability and consistancy with all other flutter icon packs
 
 To convert from the catalog simply follow this method
 
