@@ -1,11 +1,24 @@
 ![repo-header](github_assets/repo-header.jpg)
 
-# flutter_feather_icons _v1.0.0_
-
+# flutter*feather_icons \_v1.0.1*
 
 ## [See Catalog](https://feathericons.com/)
 
-__280 General Purpose Icons for Flutter__
+### **Important Note**
+
+Naming conventions has been changed for better readability and consistancy with all other flutter icon packs
+
+To convert from the catalog simply follow this method
+
+```
+alert-circle => alertCircle
+
+arrow-down-left => arrowDownLeft
+```
+
+if still you face any problems have a look into the documentation (class FeatherIcons)
+
+## **280 General Purpose Icons for Flutter**
 
 This flutter package allows you to use all the [Feather Icons](https://github.com/feathericons/feather) made by [Feather Team](https://github.com/orgs/feathericons/people)
 
@@ -37,8 +50,10 @@ class MyAwesomeWidget extends StatelessWidget {
 ```
 
 ## Example
+
 View the flutter app in the `example` directory
 
 ## Screenshot
-<img src="github_assets/screenshot_1.jpg" alt="screenshot-1" width="300"/>
-<img src="github_assets/screenshot_2.jpg" alt="screenshot-2" width="300"/>
+
+![screenshot-1](github_assets/screenshot_1.jpg)
+![screenshot-2](github_assets/screenshot_2.jpg)
