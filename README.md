@@ -1,6 +1,6 @@
 ![repo-header](github_assets/repo-header.jpg)
 
-# flutter*feather_icons \_v1.0.1*
+# flutter*feather_icons \_v1.0.2*
 
 ## [See Catalog](https://feathericons.com/)
 
@@ -22,7 +22,7 @@ if still you face any problems have a look into the documentation (class Feather
 
 This flutter package allows you to use all the [Feather Icons](https://github.com/feathericons/feather) made by [Feather Team](https://github.com/orgs/feathericons/people)
 
-Find it at [pub.dartlang.org]()
+Find it at [pub.dartlang.org](https://pub.dev/packages/flutter_feather_icons)
 
 ## Installation
 
