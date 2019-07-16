@@ -14,9 +14,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  recase: ^2.0.1
 
 flutter:
   fonts:
     - family: FeatherIcons
       fonts:
-        - asset: lib/src/fonts/feather.ttf
+        - asset: fonts/feather.ttf
