@@ -7,7 +7,7 @@ void main(List<String> args) {
   File fontsConfigFile = File(args[0]);
 
   if (!fontsConfigFile.existsSync()) {
-    print('file not found');
+    print('config file not found');
     exit(0);
   }
 
@@ -23,14 +23,12 @@ void main(List<String> args) {
   ];
 
   for (Map<String, dynamic> icon in icons) {
-    icon.forEach((String iconName, dynamic iconUnicode) => {
-          generatedOutput.add(
-              "static const IconData ${ReCase(iconName).camelCase} = const FeatherIconData(0x$iconUnicode);\n")
-        });
+    icon.forEach((String iconName, dynamic iconUnicode) => generatedOutput.add(
+        "static const IconData ${ReCase(iconName).camelCase} = const FeatherIconData(0x$iconUnicode);\n"));
   }
 
   generatedOutput.add("}\n");
 
-  File output = File('lib/flutter_feather_icons.dart');
+  File output = File('./lib/flutter_feather_icons.dart');
   output.writeAsStringSync(generatedOutput.join());
 }
