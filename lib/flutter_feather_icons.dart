@@ -1,7 +1,9 @@
 library flutter_feather_icons;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+import "package:flutter/widgets.dart";
+import "package:flutter_feather_icons/src/icon_data.dart";
+
+class FeatherIcons {
+  static const IconData activity = const FeatherIconData(0xe900);
+  static const IconData airplay = const FeatherIconData(0xe901);
 }
