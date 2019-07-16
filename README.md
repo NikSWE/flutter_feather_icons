@@ -1,6 +1,6 @@
 ![repo-header](github_assets/repo-header.jpg)
 
-# flutter*feather_icons \_v1.0.2*
+# flutter_feather_icons *v1.0.2*
 
 ## [See Catalog](https://feathericons.com/)
 
