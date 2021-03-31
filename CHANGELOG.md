@@ -1,3 +1,8 @@
+## 2.0.0
+
+- **Update**
+  - Added support for null safety
+
 ## 1.0.2
 
 - **Update**
