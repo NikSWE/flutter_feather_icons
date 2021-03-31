@@ -1,6 +1,6 @@
 ![repo-header](github_assets/repo-header.jpg)
 
-# flutter_feather_icons *v1.0.5-nullsafety.0*
+# flutter_feather_icons *v2.0.0*
 
 ## [See Catalog](https://feathericons.com/)
 
@@ -29,7 +29,7 @@ Find it at [pub.dartlang.org](https://pub.dev/packages/flutter_feather_icons)
 In the `dependencies:` section of your _pubspec.yaml_, add the following line:
 
 ```dart
-flutter_feather_icons: <latest_version>
+flutter_feather_icons: ^2.0.0
 ```
 
 ## Usage
