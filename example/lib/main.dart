@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 
-import './icons_list.dart';
+import 'icons_list.dart';
 
 void main() => runApp(MyApp());
 
