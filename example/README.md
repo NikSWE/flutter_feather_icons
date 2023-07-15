@@ -1,6 +1,6 @@
 # Feather Icons Example
 
-Showcases a gridview consisting of all the __280__ fabulous icons
+Showcases a gridview consisting of all the __287__ fabulous icons
 
 ## Installation
 

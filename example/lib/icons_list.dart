@@ -281,7 +281,12 @@ List<IconData> iconDataList = [
   FeatherIcons.zapOff,
   FeatherIcons.zap,
   FeatherIcons.zoomIn,
-  FeatherIcons.zoomOut
+  FeatherIcons.zoomOut,
+  FeatherIcons.tool,
+  FeatherIcons.twitch,
+  FeatherIcons.dribble,
+  FeatherIcons.divide,
+  FeatherIcons.table,
 ];
 
 List<String> iconNameList = [
@@ -564,5 +569,10 @@ List<String> iconNameList = [
   "zapOff",
   "zap",
   "zoomIn",
-  "zoomOut"
+  "zoomOut",
+  "tool",
+  "twitch",
+  "dribble",
+  "divide",
+  "table"
 ];

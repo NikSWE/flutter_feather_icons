@@ -1,282 +1,863 @@
 [
-  { "activity": "e900" },
-  { "airplay": "e901" },
-  { "alert-circle": "e902" },
-  { "alert-octagon": "e903" },
-  { "alert-triangle": "e904" },
-  { "align-center": "e905" },
-  { "align-justify": "e906" },
-  { "align-left": "e907" },
-  { "align-right": "e908" },
-  { "anchor": "e909" },
-  { "aperture": "e90a" },
-  { "archive": "e90b" },
-  { "arrow-down-circle": "e90c" },
-  { "arrow-down-left": "e90d" },
-  { "arrow-down-right": "e90e" },
-  { "arrow-down": "e90f" },
-  { "arrow-left-circle": "e910" },
-  { "arrow-left": "e911" },
-  { "arrow-right-circle": "e912" },
-  { "arrow-right": "e913" },
-  { "arrow-up-circle": "e914" },
-  { "arrow-up-left": "e915" },
-  { "arrow-up-right": "e916" },
-  { "arrow-up": "e917" },
-  { "at-sign": "e918" },
-  { "award": "e919" },
-  { "bar-chart-2": "e91a" },
-  { "bar-chart": "e91b" },
-  { "battery-charging": "e91c" },
-  { "battery": "e91d" },
-  { "bell-off": "e91e" },
-  { "bell": "e91f" },
-  { "bluetooth": "e920" },
-  { "bold": "e921" },
-  { "book-open": "e922" },
-  { "book": "e923" },
-  { "bookmark": "e924" },
-  { "box": "e925" },
-  { "briefcase": "e926" },
-  { "calendar": "e927" },
-  { "camera-off": "e928" },
-  { "camera": "e929" },
-  { "cast": "e92a" },
-  { "check-circle": "e92b" },
-  { "check-square": "e92c" },
-  { "check": "e92d" },
-  { "chevron-down": "e92e" },
-  { "chevron-left": "e92f" },
-  { "chevron-right": "e930" },
-  { "chevron-up": "e931" },
-  { "chevrons-down": "e932" },
-  { "chevrons-left": "e933" },
-  { "chevrons-right": "e934" },
-  { "chevrons-up": "e935" },
-  { "chrome": "e936" },
-  { "circle": "e937" },
-  { "clipboard": "e938" },
-  { "clock": "e939" },
-  { "cloud-drizzle": "e93a" },
-  { "cloud-lightning": "e93b" },
-  { "cloud-off": "e93c" },
-  { "cloud-rain": "e93d" },
-  { "cloud-snow": "e93e" },
-  { "cloud": "e93f" },
-  { "code": "e940" },
-  { "codepen": "e941" },
-  { "codesandbox": "e942" },
-  { "coffee": "e943" },
-  { "columns": "e944" },
-  { "command": "e945" },
-  { "compass": "e946" },
-  { "copy": "e947" },
-  { "corner-down-left": "e948" },
-  { "corner-down-right": "e949" },
-  { "corner-left-down": "e94a" },
-  { "corner-left-up": "e94b" },
-  { "corner-right-down": "e94c" },
-  { "corner-right-up": "e94d" },
-  { "corner-up-left": "e94e" },
-  { "corner-up-right": "e94f" },
-  { "cpu": "e950" },
-  { "credit-card": "e951" },
-  { "crop": "e952" },
-  { "crosshair": "e953" },
-  { "database": "e954" },
-  { "delete": "e955" },
-  { "disc": "e956" },
-  { "dollar-sign": "e957" },
-  { "download-cloud": "e958" },
-  { "download": "e959" },
-  { "droplet": "e95a" },
-  { "edit-2": "e95b" },
-  { "edit-3": "e95c" },
-  { "edit": "e95d" },
-  { "external-link": "e95e" },
-  { "eye-off": "e95f" },
-  { "eye": "e960" },
-  { "facebook": "e961" },
-  { "fast-forward": "e962" },
-  { "feather": "e963" },
-  { "figma": "e964" },
-  { "file-minus": "e965" },
-  { "file-plus": "e966" },
-  { "file-text": "e967" },
-  { "file": "e968" },
-  { "film": "e969" },
-  { "filter": "e96a" },
-  { "flag": "e96b" },
-  { "folder-minus": "e96c" },
-  { "folder-plus": "e96d" },
-  { "folder": "e96e" },
-  { "framer": "e96f" },
-  { "frown": "e970" },
-  { "gift": "e971" },
-  { "git-branch": "e972" },
-  { "git-commit": "e973" },
-  { "git-merge": "e974" },
-  { "git-pull-request": "e975" },
-  { "github": "e976" },
-  { "gitlab": "e977" },
-  { "globe": "e978" },
-  { "grid": "e979" },
-  { "hard-drive": "e97a" },
-  { "hash": "e97b" },
-  { "headphones": "e97c" },
-  { "heart": "e97d" },
-  { "help-circle": "e97e" },
-  { "hexagon": "e97f" },
-  { "home": "e980" },
-  { "image": "e981" },
-  { "inbox": "e982" },
-  { "info": "e983" },
-  { "instagram": "e984" },
-  { "italic": "e985" },
-  { "key": "e986" },
-  { "layers": "e987" },
-  { "layout": "e988" },
-  { "life-buoy": "e989" },
-  { "link-2": "e98a" },
-  { "link": "e98b" },
-  { "linkedin": "e98c" },
-  { "list": "e98d" },
-  { "loader": "e98e" },
-  { "lock": "e98f" },
-  { "log-in": "e990" },
-  { "log-out": "e991" },
-  { "mail": "e992" },
-  { "map-pin": "e993" },
-  { "map": "e994" },
-  { "maximize-2": "e995" },
-  { "maximize": "e996" },
-  { "meh": "e997" },
-  { "menu": "e998" },
-  { "message-circle": "e999" },
-  { "message-square": "e99a" },
-  { "mic-off": "e99b" },
-  { "mic": "e99c" },
-  { "minimize-2": "e99d" },
-  { "minimize": "e99e" },
-  { "minus-circle": "e99f" },
-  { "minus-square": "e9a0" },
-  { "minus": "e9a1" },
-  { "monitor": "e9a2" },
-  { "moon": "e9a3" },
-  { "more-horizontal": "e9a4" },
-  { "more-vertical": "e9a5" },
-  { "mouse-pointer": "e9a6" },
-  { "move": "e9a7" },
-  { "music": "e9a8" },
-  { "navigation-2": "e9a9" },
-  { "navigation": "e9aa" },
-  { "octagon": "e9ab" },
-  { "package": "e9ac" },
-  { "paperclip": "e9ad" },
-  { "pause-circle": "e9ae" },
-  { "pause": "e9af" },
-  { "pen-tool": "e9b0" },
-  { "percent": "e9b1" },
-  { "phone-call": "e9b2" },
-  { "phone-forwarded": "e9b3" },
-  { "phone-incoming": "e9b4" },
-  { "phone-missed": "e9b5" },
-  { "phone-off": "e9b6" },
-  { "phone-outgoing": "e9b7" },
-  { "phone": "e9b8" },
-  { "pie-chart": "e9b9" },
-  { "play-circle": "e9ba" },
-  { "play": "e9bb" },
-  { "plus-circle": "e9bc" },
-  { "plus-square": "e9bd" },
-  { "plus": "e9be" },
-  { "pocket": "e9bf" },
-  { "power": "e9c0" },
-  { "printer": "e9c1" },
-  { "radio": "e9c2" },
-  { "refresh-ccw": "e9c3" },
-  { "refresh-cw": "e9c4" },
-  { "repeat": "e9c5" },
-  { "rewind": "e9c6" },
-  { "rotate-ccw": "e9c7" },
-  { "rotate-cw": "e9c8" },
-  { "rss": "e9c9" },
-  { "save": "e9ca" },
-  { "scissors": "e9cb" },
-  { "search": "e9cc" },
-  { "send": "e9cd" },
-  { "server": "e9ce" },
-  { "settings": "e9cf" },
-  { "share-2": "e9d0" },
-  { "share": "e9d1" },
-  { "shield-off": "e9d2" },
-  { "shield": "e9d3" },
-  { "shopping-bag": "e9d4" },
-  { "shopping-cart": "e9d5" },
-  { "shuffle": "e9d6" },
-  { "sidebar": "e9d7" },
-  { "skip-back": "e9d8" },
-  { "skip-forward": "e9d9" },
-  { "slack": "e9da" },
-  { "slash": "e9db" },
-  { "sliders": "e9dc" },
-  { "smartphone": "e9dd" },
-  { "smile": "e9de" },
-  { "speaker": "e9df" },
-  { "square": "e9e0" },
-  { "star": "e9e1" },
-  { "stop-circle": "e9e2" },
-  { "sun": "e9e3" },
-  { "sunrise": "e9e4" },
-  { "sunset": "e9e5" },
-  { "tablet": "e9e6" },
-  { "tag": "e9e7" },
-  { "target": "e9e8" },
-  { "terminal": "e9e9" },
-  { "thermometer": "e9ea" },
-  { "thumbs-down": "e9eb" },
-  { "thumbs-up": "e9ec" },
-  { "toggle-left": "e9ed" },
-  { "toggle-right": "e9ee" },
-  { "trash-2": "e9ef" },
-  { "trash": "e9f0" },
-  { "trello": "e9f1" },
-  { "trending-down": "e9f2" },
-  { "trending-up": "e9f3" },
-  { "triangle": "e9f4" },
-  { "truck": "e9f5" },
-  { "tv": "e9f6" },
-  { "twitter": "e9f7" },
-  { "type": "e9f8" },
-  { "umbrella": "e9f9" },
-  { "underline": "e9fa" },
-  { "unlock": "e9fb" },
-  { "upload-cloud": "e9fc" },
-  { "upload": "e9fd" },
-  { "user-check": "e9fe" },
-  { "user-minus": "e9ff" },
-  { "user-plus": "ea00" },
-  { "user-x": "ea01" },
-  { "user": "ea02" },
-  { "users": "ea03" },
-  { "video-off": "ea04" },
-  { "video": "ea05" },
-  { "voicemail": "ea06" },
-  { "volume-1": "ea07" },
-  { "volume-2": "ea08" },
-  { "volume-x": "ea09" },
-  { "volume": "ea0a" },
-  { "watch": "ea0b" },
-  { "wifi-off": "ea0c" },
-  { "wifi": "ea0d" },
-  { "wind": "ea0e" },
-  { "x-circle": "ea0f" },
-  { "x-octagon": "ea10" },
-  { "x-square": "ea11" },
-  { "x": "ea12" },
-  { "youtube": "ea13" },
-  { "zap-off": "ea14" },
-  { "zap": "ea15" },
-  { "zoom-in": "ea16" },
-  { "zoom-out": "ea17" }
+  {
+    "activity": "e900"
+  },
+  {
+    "airplay": "e901"
+  },
+  {
+    "alert-circle": "e902"
+  },
+  {
+    "alert-octagon": "e903"
+  },
+  {
+    "alert-triangle": "e904"
+  },
+  {
+    "align-center": "e905"
+  },
+  {
+    "align-justify": "e906"
+  },
+  {
+    "align-left": "e907"
+  },
+  {
+    "align-right": "e908"
+  },
+  {
+    "anchor": "e909"
+  },
+  {
+    "aperture": "e90a"
+  },
+  {
+    "archive": "e90b"
+  },
+  {
+    "arrow-down": "e90c"
+  },
+  {
+    "arrow-down-circle": "e90d"
+  },
+  {
+    "arrow-down-left": "e90e"
+  },
+  {
+    "arrow-down-right": "e90f"
+  },
+  {
+    "arrow-left": "e910"
+  },
+  {
+    "arrow-left-circle": "e911"
+  },
+  {
+    "arrow-right": "e912"
+  },
+  {
+    "arrow-right-circle": "e913"
+  },
+  {
+    "arrow-up": "e914"
+  },
+  {
+    "arrow-up-circle": "e915"
+  },
+  {
+    "arrow-up-left": "e916"
+  },
+  {
+    "arrow-up-right": "e917"
+  },
+  {
+    "at-sign": "e918"
+  },
+  {
+    "award": "e919"
+  },
+  {
+    "bar-chart": "e91a"
+  },
+  {
+    "bar-chart-2": "e91b"
+  },
+  {
+    "battery": "e91c"
+  },
+  {
+    "battery-charging": "e91d"
+  },
+  {
+    "bell": "e91e"
+  },
+  {
+    "bell-off": "e91f"
+  },
+  {
+    "bluetooth": "e920"
+  },
+  {
+    "bold": "e921"
+  },
+  {
+    "book": "e922"
+  },
+  {
+    "book-open": "e923"
+  },
+  {
+    "bookmark": "e924"
+  },
+  {
+    "box": "e925"
+  },
+  {
+    "briefcase": "e926"
+  },
+  {
+    "calendar": "e927"
+  },
+  {
+    "camera": "e928"
+  },
+  {
+    "camera-off": "e929"
+  },
+  {
+    "cast": "e92a"
+  },
+  {
+    "check": "e92b"
+  },
+  {
+    "check-circle": "e92c"
+  },
+  {
+    "check-square": "e92d"
+  },
+  {
+    "chevron-down": "e92e"
+  },
+  {
+    "chevron-left": "e92f"
+  },
+  {
+    "chevron-right": "e930"
+  },
+  {
+    "chevron-up": "e931"
+  },
+  {
+    "chevrons-down": "e932"
+  },
+  {
+    "chevrons-left": "e933"
+  },
+  {
+    "chevrons-right": "e934"
+  },
+  {
+    "chevrons-up": "e935"
+  },
+  {
+    "chrome": "e936"
+  },
+  {
+    "circle": "e937"
+  },
+  {
+    "clipboard": "e938"
+  },
+  {
+    "clock": "e939"
+  },
+  {
+    "cloud": "e93a"
+  },
+  {
+    "cloud-drizzle": "e93b"
+  },
+  {
+    "cloud-lightning": "e93c"
+  },
+  {
+    "cloud-off": "e93d"
+  },
+  {
+    "cloud-rain": "e93e"
+  },
+  {
+    "cloud-snow": "e93f"
+  },
+  {
+    "code": "e940"
+  },
+  {
+    "codepen": "e941"
+  },
+  {
+    "codesandbox": "e942"
+  },
+  {
+    "coffee": "e943"
+  },
+  {
+    "columns": "e944"
+  },
+  {
+    "command": "e945"
+  },
+  {
+    "compass": "e946"
+  },
+  {
+    "copy": "e947"
+  },
+  {
+    "corner-down-left": "e948"
+  },
+  {
+    "corner-down-right": "e949"
+  },
+  {
+    "corner-left-down": "e94a"
+  },
+  {
+    "corner-left-up": "e94b"
+  },
+  {
+    "corner-right-down": "e94c"
+  },
+  {
+    "corner-right-up": "e94d"
+  },
+  {
+    "corner-up-left": "e94e"
+  },
+  {
+    "corner-up-right": "e94f"
+  },
+  {
+    "cpu": "e950"
+  },
+  {
+    "credit-card": "e951"
+  },
+  {
+    "crop": "e952"
+  },
+  {
+    "crosshair": "e953"
+  },
+  {
+    "database": "e954"
+  },
+  {
+    "delete": "e955"
+  },
+  {
+    "disc": "e956"
+  },
+  {
+    "divide": "e957"
+  },
+  {
+    "divide-circle": "e958"
+  },
+  {
+    "divide-square": "e959"
+  },
+  {
+    "dollar-sign": "e95a"
+  },
+  {
+    "download": "e95b"
+  },
+  {
+    "download-cloud": "e95c"
+  },
+  {
+    "dribbble": "e95d"
+  },
+  {
+    "droplet": "e95e"
+  },
+  {
+    "edit": "e95f"
+  },
+  {
+    "edit-2": "e960"
+  },
+  {
+    "edit-3": "e961"
+  },
+  {
+    "external-link": "e962"
+  },
+  {
+    "eye": "e963"
+  },
+  {
+    "eye-off": "e964"
+  },
+  {
+    "facebook": "e965"
+  },
+  {
+    "fast-forward": "e966"
+  },
+  {
+    "feather": "e967"
+  },
+  {
+    "figma": "e968"
+  },
+  {
+    "file": "e969"
+  },
+  {
+    "file-minus": "e96a"
+  },
+  {
+    "file-plus": "e96b"
+  },
+  {
+    "file-text": "e96c"
+  },
+  {
+    "film": "e96d"
+  },
+  {
+    "filter": "e96e"
+  },
+  {
+    "flag": "e96f"
+  },
+  {
+    "folder": "e970"
+  },
+  {
+    "folder-minus": "e971"
+  },
+  {
+    "folder-plus": "e972"
+  },
+  {
+    "framer": "e973"
+  },
+  {
+    "frown": "e974"
+  },
+  {
+    "gift": "e975"
+  },
+  {
+    "git-branch": "e976"
+  },
+  {
+    "git-commit": "e977"
+  },
+  {
+    "git-merge": "e978"
+  },
+  {
+    "git-pull-request": "e979"
+  },
+  {
+    "github": "e97a"
+  },
+  {
+    "gitlab": "e97b"
+  },
+  {
+    "globe": "e97c"
+  },
+  {
+    "grid": "e97d"
+  },
+  {
+    "hard-drive": "e97e"
+  },
+  {
+    "hash": "e97f"
+  },
+  {
+    "headphones": "e980"
+  },
+  {
+    "heart": "e981"
+  },
+  {
+    "help-circle": "e982"
+  },
+  {
+    "hexagon": "e983"
+  },
+  {
+    "home": "e984"
+  },
+  {
+    "image": "e985"
+  },
+  {
+    "inbox": "e986"
+  },
+  {
+    "info": "e987"
+  },
+  {
+    "instagram": "e988"
+  },
+  {
+    "italic": "e989"
+  },
+  {
+    "key": "e98a"
+  },
+  {
+    "layers": "e98b"
+  },
+  {
+    "layout": "e98c"
+  },
+  {
+    "life-buoy": "e98d"
+  },
+  {
+    "link": "e98e"
+  },
+  {
+    "link-2": "e98f"
+  },
+  {
+    "linkedin": "e990"
+  },
+  {
+    "list": "e991"
+  },
+  {
+    "loader": "e992"
+  },
+  {
+    "lock": "e993"
+  },
+  {
+    "log-in": "e994"
+  },
+  {
+    "log-out": "e995"
+  },
+  {
+    "mail": "e996"
+  },
+  {
+    "map": "e997"
+  },
+  {
+    "map-pin": "e998"
+  },
+  {
+    "maximize": "e999"
+  },
+  {
+    "maximize-2": "e99a"
+  },
+  {
+    "meh": "e99b"
+  },
+  {
+    "menu": "e99c"
+  },
+  {
+    "message-circle": "e99d"
+  },
+  {
+    "message-square": "e99e"
+  },
+  {
+    "mic": "e99f"
+  },
+  {
+    "mic-off": "e9a0"
+  },
+  {
+    "minimize": "e9a1"
+  },
+  {
+    "minimize-2": "e9a2"
+  },
+  {
+    "minus": "e9a3"
+  },
+  {
+    "minus-circle": "e9a4"
+  },
+  {
+    "minus-square": "e9a5"
+  },
+  {
+    "monitor": "e9a6"
+  },
+  {
+    "moon": "e9a7"
+  },
+  {
+    "more-horizontal": "e9a8"
+  },
+  {
+    "more-vertical": "e9a9"
+  },
+  {
+    "mouse-pointer": "e9aa"
+  },
+  {
+    "move": "e9ab"
+  },
+  {
+    "music": "e9ac"
+  },
+  {
+    "navigation": "e9ad"
+  },
+  {
+    "navigation-2": "e9ae"
+  },
+  {
+    "octagon": "e9af"
+  },
+  {
+    "package": "e9b0"
+  },
+  {
+    "paperclip": "e9b1"
+  },
+  {
+    "pause": "e9b2"
+  },
+  {
+    "pause-circle": "e9b3"
+  },
+  {
+    "pen-tool": "e9b4"
+  },
+  {
+    "percent": "e9b5"
+  },
+  {
+    "phone": "e9b6"
+  },
+  {
+    "phone-call": "e9b7"
+  },
+  {
+    "phone-forwarded": "e9b8"
+  },
+  {
+    "phone-incoming": "e9b9"
+  },
+  {
+    "phone-missed": "e9ba"
+  },
+  {
+    "phone-off": "e9bb"
+  },
+  {
+    "phone-outgoing": "e9bc"
+  },
+  {
+    "pie-chart": "e9bd"
+  },
+  {
+    "play": "e9be"
+  },
+  {
+    "play-circle": "e9bf"
+  },
+  {
+    "plus": "e9c0"
+  },
+  {
+    "plus-circle": "e9c1"
+  },
+  {
+    "plus-square": "e9c2"
+  },
+  {
+    "pocket": "e9c3"
+  },
+  {
+    "power": "e9c4"
+  },
+  {
+    "printer": "e9c5"
+  },
+  {
+    "radio": "e9c6"
+  },
+  {
+    "refresh-ccw": "e9c7"
+  },
+  {
+    "refresh-cw": "e9c8"
+  },
+  {
+    "repeat": "e9c9"
+  },
+  {
+    "rewind": "e9ca"
+  },
+  {
+    "rotate-ccw": "e9cb"
+  },
+  {
+    "rotate-cw": "e9cc"
+  },
+  {
+    "rss": "e9cd"
+  },
+  {
+    "save": "e9ce"
+  },
+  {
+    "scissors": "e9cf"
+  },
+  {
+    "search": "e9d0"
+  },
+  {
+    "send": "e9d1"
+  },
+  {
+    "server": "e9d2"
+  },
+  {
+    "settings": "e9d3"
+  },
+  {
+    "share": "e9d4"
+  },
+  {
+    "share-2": "e9d5"
+  },
+  {
+    "shield": "e9d6"
+  },
+  {
+    "shield-off": "e9d7"
+  },
+  {
+    "shopping-bag": "e9d8"
+  },
+  {
+    "shopping-cart": "e9d9"
+  },
+  {
+    "shuffle": "e9da"
+  },
+  {
+    "sidebar": "e9db"
+  },
+  {
+    "skip-back": "e9dc"
+  },
+  {
+    "skip-forward": "e9dd"
+  },
+  {
+    "slack": "e9de"
+  },
+  {
+    "slash": "e9df"
+  },
+  {
+    "sliders": "e9e0"
+  },
+  {
+    "smartphone": "e9e1"
+  },
+  {
+    "smile": "e9e2"
+  },
+  {
+    "speaker": "e9e3"
+  },
+  {
+    "square": "e9e4"
+  },
+  {
+    "star": "e9e5"
+  },
+  {
+    "stop-circle": "e9e6"
+  },
+  {
+    "sun": "e9e7"
+  },
+  {
+    "sunrise": "e9e8"
+  },
+  {
+    "sunset": "e9e9"
+  },
+  {
+    "table": "e9ea"
+  },
+  {
+    "tablet": "e9eb"
+  },
+  {
+    "tag": "e9ec"
+  },
+  {
+    "target": "e9ed"
+  },
+  {
+    "terminal": "e9ee"
+  },
+  {
+    "thermometer": "e9ef"
+  },
+  {
+    "thumbs-down": "e9f0"
+  },
+  {
+    "thumbs-up": "e9f1"
+  },
+  {
+    "toggle-left": "e9f2"
+  },
+  {
+    "toggle-right": "e9f3"
+  },
+  {
+    "tool": "e9f4"
+  },
+  {
+    "trash": "e9f5"
+  },
+  {
+    "trash-2": "e9f6"
+  },
+  {
+    "trello": "e9f7"
+  },
+  {
+    "trending-down": "e9f8"
+  },
+  {
+    "trending-up": "e9f9"
+  },
+  {
+    "triangle": "e9fa"
+  },
+  {
+    "truck": "e9fb"
+  },
+  {
+    "tv": "e9fc"
+  },
+  {
+    "twitch": "e9fd"
+  },
+  {
+    "twitter": "e9fe"
+  },
+  {
+    "type": "e9ff"
+  },
+  {
+    "umbrella": "ea00"
+  },
+  {
+    "underline": "ea01"
+  },
+  {
+    "unlock": "ea02"
+  },
+  {
+    "upload": "ea03"
+  },
+  {
+    "upload-cloud": "ea04"
+  },
+  {
+    "user": "ea05"
+  },
+  {
+    "user-check": "ea06"
+  },
+  {
+    "user-minus": "ea07"
+  },
+  {
+    "user-plus": "ea08"
+  },
+  {
+    "user-x": "ea09"
+  },
+  {
+    "users": "ea0a"
+  },
+  {
+    "video": "ea0b"
+  },
+  {
+    "video-off": "ea0c"
+  },
+  {
+    "voicemail": "ea0d"
+  },
+  {
+    "volume": "ea0e"
+  },
+  {
+    "volume-1": "ea0f"
+  },
+  {
+    "volume-2": "ea10"
+  },
+  {
+    "volume-x": "ea11"
+  },
+  {
+    "watch": "ea12"
+  },
+  {
+    "wifi": "ea13"
+  },
+  {
+    "wifi-off": "ea14"
+  },
+  {
+    "wind": "ea15"
+  },
+  {
+    "x": "ea16"
+  },
+  {
+    "x-circle": "ea17"
+  },
+  {
+    "x-octagon": "ea18"
+  },
+  {
+    "x-square": "ea19"
+  },
+  {
+    "youtube": "ea1a"
+  },
+  {
+    "zap": "ea1b"
+  },
+  {
+    "zap-off": "ea1c"
+  },
+  {
+    "zoom-in": "ea1d"
+  },
+  {
+    "zoom-out": "ea1e"
+  }
 ]

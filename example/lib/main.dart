@@ -1,10 +1,12 @@
 import "package:flutter/material.dart";
 
-import './icons_list.dart';
+import 'icons_list.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   Widget iconCard(IconData iconData, String iconName) {
     return Card(
       child: Column(
@@ -14,7 +16,7 @@ class MyApp extends StatelessWidget {
             iconData,
             size: 50.0,
           ),
-          SizedBox(height: 30.0),
+          const SizedBox(height: 30.0),
           Text(iconName)
         ],
       ),
@@ -27,14 +29,14 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Feather Icons Example",
       home: Scaffold(
-        backgroundColor: Color(0xFFF9F9F9),
+        backgroundColor: const Color(0xFFF9F9F9),
         appBar: AppBar(
-          title: Text('FeatherIcons Example'),
+          title: const Text('FeatherIcons Example'),
         ),
         body: GridView.builder(
-          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 2,
-            crossAxisSpacing: 8.0,
+            crossAxisSpacing: 8,
           ),
           itemBuilder: (BuildContext context, int index) {
             return iconCard(
