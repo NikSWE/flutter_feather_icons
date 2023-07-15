@@ -18,7 +18,7 @@ arrow-down-left => arrowDownLeft
 
 if still you face any problems have a look into the documentation (class FeatherIcons)
 
-## **280 General Purpose Icons for Flutter**
+## **287 General Purpose Icons for Flutter**
 
 This flutter package allows you to use all the [Feather Icons](https://github.com/feathericons/feather) made by [Feather Team](https://github.com/orgs/feathericons/people)
 
